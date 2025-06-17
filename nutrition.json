@@ -1,0 +1,37 @@
+{
+  "Croissants, cheese": {
+    "calories": 350,
+    "total_fat": 20,
+    "protein": 8,
+    "carbohydrate": 35,
+    "sugars": 4
+  },
+  "Orange juice, raw": {
+    "calories": 45,
+    "total_fat": 0.2,
+    "protein": 0.7,
+    "carbohydrate": 10.4,
+    "sugars": 8.4
+  },
+  "Banana, raw": {
+    "calories": 89,
+    "total_fat": 0.3,
+    "protein": 1.1,
+    "carbohydrate": 22.8,
+    "sugars": 12.2
+  },
+  "Boiled egg": {
+    "calories": 155,
+    "total_fat": 11,
+    "protein": 13,
+    "carbohydrate": 1.1,
+    "sugars": 1.1
+  },
+  "Grilled chicken breast": {
+    "calories": 165,
+    "total_fat": 3.6,
+    "protein": 31,
+    "carbohydrate": 0,
+    "sugars": 0
+  }
+}
