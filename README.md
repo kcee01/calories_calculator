@@ -51,21 +51,41 @@ The app expects the nutrition data to be structured like this:
 
 ```json
 {
-  "Orange juice, raw": {
-    "calories": 45,
-    "total_fat": 0.2,
-    "protein": 0.7,
-    "carbohydrate": 10.4,
-    "sugars": 8.4
-  },
-  "Croissants, cheese": {
-    "calories": 350,
-    "total_fat": 20.0,
-    "protein": 8.0,
-    "carbohydrate": 35.0,
-    "sugars": 5.0
-  }
+  "country": "Botswana",
+  "traditional_foods": [
+    {
+      "name": "Seswaa",
+      "description": "Shredded beef or goat meat, slow-cooked and seasoned with salt.",
+      "nutrition_per_100g": {
+        "calories": 250,
+        "protein": 26,
+        "fat": 15,
+        "carbohydrates": 0
+      }
+    },
+    {
+      "name": "Pap (Bogobe)",
+      "description": "Thick maize meal porridge, often served with meat or vegetables.",
+      "nutrition_per_100g": {
+        "calories": 110,
+        "protein": 2,
+        "fat": 0.5,
+        "carbohydrates": 24
+      }
+    },
+    {
+      "name": "Morogo (Wild Spinach)",
+      "description": "Leafy green vegetable, similar to spinach, often boiled or sautéed.",
+      "nutrition_per_100g": {
+        "calories": 35,
+        "protein": 3.5,
+        "fat": 0.4,
+        "carbohydrates": 4
+      }
+    }
+  ]
 }
+
 ```
 
 > All values are per 100 grams.
