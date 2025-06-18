@@ -1,112 +1,87 @@
-[
-  {
-    "name": "Seswaa",
-    "description": "Shredded beef or goat meat, slow-cooked and seasoned with salt.",
-    "nutrition_per_100g": {
-      "calories": 250,
-      "protein": 26,
-      "fat": 15,
-      "carbohydrates": 0
-    }
+{
+  "Seswaa": {
+    "calories": 250,
+    "total_fat": 15,
+    "protein": 26,
+    "carbohydrate": 0,
+    "sugars": 0
   },
-  {
-    "name": "Pap (Bogobe)",
-    "description": "Thick maize meal porridge, often served with meat or vegetables.",
-    "nutrition_per_100g": {
-      "calories": 110,
-      "protein": 2,
-      "fat": 0.5,
-      "carbohydrates": 24
-    }
+  "Pap (Bogobe)": {
+    "calories": 110,
+    "total_fat": 0.5,
+    "protein": 2,
+    "carbohydrate": 24,
+    "sugars": 0
   },
-  {
-    "name": "Morogo (Wild Spinach)",
-    "description": "Leafy green vegetable, similar to spinach, often boiled or sautéed.",
-    "nutrition_per_100g": {
-      "calories": 35,
-      "protein": 3.5,
-      "fat": 0.4,
-      "carbohydrates": 4
-    }
+  "Morogo (Wild Spinach)": {
+    "calories": 35,
+    "total_fat": 0.4,
+    "protein": 3.5,
+    "carbohydrate": 4,
+    "sugars": 0
   },
-  {
-    "name": "Dikgobe",
-    "description": "Mixture of samp (crushed maize) and beans, cooked together.",
-    "nutrition_per_100g": {
-      "calories": 120,
-      "protein": 6,
-      "fat": 1,
-      "carbohydrates": 22
-    }
+  "Dikgobe": {
+    "calories": 120,
+    "total_fat": 1,
+    "protein": 6,
+    "carbohydrate": 22,
+    "sugars": 0
   },
-  {
-    "name": "Vetkoek",
-    "description": "Deep-fried dough bread, often stuffed with mince or jam.",
-    "nutrition_per_100g": {
-      "calories": 290,
-      "protein": 5,
-      "fat": 15,
-      "carbohydrates": 35
-    }
+  "Vetkoek": {
+    "calories": 290,
+    "total_fat": 15,
+    "protein": 5,
+    "carbohydrate": 35,
+    "sugars": 0
   },
-  {
-    "name": "Madila",
-    "description": "Fermented sour milk or yogurt, rich in probiotics.",
-    "nutrition_per_100g": {
-      "calories": 65,
-      "protein": 3.5,
-      "fat": 3.7,
-      "carbohydrates": 4.5
-    }
+  "Madila": {
+    "calories": 65,
+    "total_fat": 3.7,
+    "protein": 3.5,
+    "carbohydrate": 4.5,
+    "sugars": 0
   },
-  {
-    "name": "Motogo",
-    "description": "Soft fermented sorghum porridge, usually eaten for breakfast.",
-    "nutrition_per_100g": {
-      "calories": 75,
-      "protein": 2.5,
-      "fat": 0.5,
-      "carbohydrates": 16
-    }
+  "Motogo": {
+    "calories": 75,
+    "total_fat": 0.5,
+    "protein": 2.5,
+    "carbohydrate": 16,
+    "sugars": 0
   },
-  {
-    "name": "Bogobe ba leletse",
-    "description": "Sour porridge made from fermented sorghum or maize, served thin and warm.",
-    "nutrition_per_100g": {
-      "calories": 70,
-      "protein": 2.8,
-      "fat": 0.3,
-      "carbohydrates": 15
-    }
+  "Bogobe ba leletse": {
+    "calories": 70,
+    "total_fat": 0.3,
+    "protein": 2.8,
+    "carbohydrate": 15,
+    "sugars": 0
   },
-  {
-    "name": "Swii (Traditional Sweets)",
-    "description": "Sweetened snacks often made from sugar, syrup, or local fruits.",
-    "nutrition_per_100g": {
-      "calories": 380,
-      "protein": 0.5,
-      "fat": 1,
-      "carbohydrates": 95
-    }
+  "Swii (Traditional Sweets)": {
+    "calories": 380,
+    "total_fat": 1,
+    "protein": 0.5,
+    "carbohydrate": 95,
+    "sugars": 0
   },
-  {
-    "name": "Biltong",
-    "description": "Dried, cured meat, typically beef or game, seasoned with spices.",
-    "nutrition_per_100g": {
-      "calories": 250,
-      "protein": 50,
-      "fat": 3,
-      "carbohydrates": 0
-    }
+  "Biltong": {
+    "calories": 250,
+    "total_fat": 3,
+    "protein": 50,
+    "carbohydrate": 0,
+    "sugars": 0
   },
-  {
-    "name": "Boerewors",
-    "description": "Traditional South African sausage made from minced meat, spices, and herbs.",
-    "nutrition_per_100g": {
-      "calories": 300,
-      "protein": 20,
-      "fat": 25,
-      "carbohydrates": 0
+  "Boerewors": {
+    "calories": 300,
+    "total_fat": 25,
+    "protein": 20,
+    "carbohydrate": 0,
+    "sugars": 0
+  },
+  "Morogo wa dinawa (Cowpea Leaves)": {
+    "calories": 40,
+    "total_fat": 0.3,
+    "protein": 4,
+    "carbohydrate": 5,
+    "sugars": 0
     }
   }
-]
+  
