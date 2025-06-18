@@ -2,7 +2,7 @@ import streamlit as st
 import json
 
 # Load nutrition data
-with open(r'C:\Users\ckeabetswe\source\repos\connectivity\calories_calculator\nutrition.json', 'r') as json_file:
+with open(r'C:\Users\ckeabetswe\calories_calculator\nutrition.json', 'r') as json_file:
     nutrition_dict = json.load(json_file)
 
 # Function to compute nutritional summary
